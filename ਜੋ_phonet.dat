@@ -1,0 +1,110 @@
+# phonetic_h.dat - phonetic transformation rules for use with aspell
+# Copyright (C) 2006 Gora Mohanty <gora@srijan.in>
+#
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License version 2.1 as published by the Free Software Foundation;
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with this library; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+#
+# The rules below are derived from the documentation in "info aspell", under
+#    * Adding Support For Other Languages::
+version 1.0
+collapse_result     0
+ऄ अ
+ਅਾ ਅ
+ऑ अ
+ऒ अ
+ਅ ਅ
+ਅੋ ਅੌ
+ਓ ਅੌ
+ਓ ਅੋ
+ਇ ਈ 
+ਈ ਈ
+ਉ ਊ
+ਊ ਊ
+ऋ रि
+ॠ री
+ऌ ॡ
+ऍ ए
+ऎ ए
+ਏ ਇ
+ਏ ਏ
+ਕ ਖ
+ਕ਼ ਖ
+ਖ਼ ਖ
+ਖ ਖ
+ग्य ज्ञ
+ਗ ਘ
+ਗ਼ ਘ
+ਘ ਘ
+ਡ ਢ
+ਢ ਡ
+ਚ ਛ
+ਛ ਛ
+ਜ਼ ਝ
+ਜ ਝ
+ਝ ਝ
+ਙ ਙ
+ਟ ਠ
+ਠ ਥ
+ਤ ਥ
+ਥ ਥ
+ਢ਼ ਡ
+ਢ ਡ
+ਡ਼ ਡ
+ਡ ਡ
+ਦ ਧ
+ਧ ਧ
+ੰ ਂ
+ਣ ਨ
+ਨ਼ ਨ
+ਨ ਨ
+ਪ ਫ
+ਫ਼ ਫ
+ਫ ਫ
+ਬ ਭ
+ਭ ਭ
+म् ं
+ਮ ਮ
+ਯ਼ ਯ
+ਯ ਯ
+ਰ਼ ਰ
+ਰ ਰ
+ਲ ਲ
+ਲ ਲ਼
+ळ ळ
+ऴ ऴ
+ਵ ਵ
+ਸ਼ ਸ਼
+ष ष
+ਸ਼ ਸ
+ਸ ਸ਼
+ਹ ਹ
+ा _
+् _
+़ _
+ऽ _
+ਿ ੀ
+ੀ ੀ
+ੁ ੂ
+ੂ ੁ
+ੂ ੂ
+ॄ ृ
+ृ ृ
+ੱ ੇ
+ੌ ੇ
+ੈੇ ੇ
+ੇ ੇ
+ਾਂ ਾੰ
+ॊ ो
+ੌ ੋ
+ੋ ੋ
+ॢ ॣ

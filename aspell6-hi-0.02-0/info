@@ -1,0 +1,43 @@
+name_english Hindi
+name_native हिंदी
+lang hi
+data-file u-deva.cset
+data-file u-deva.cmap
+data-file hi_phonet.dat
+data-file hi_affix.dat
+data-file hi_repl.dat
+author:
+  name The janabhaaratii Team
+  name-native जनभारती
+  email janabhaaratii at ncst dot ernet dot in
+author:
+  name The raftaar.com team
+  name-native रफ़्तार
+  email peeyush at indicus dot net
+author:
+  name Gora Mohanty
+  name-native गोरा मोहान्ती
+  email gora at sarai dot net
+  maintainer true
+author:
+  name Guntupalli Karunakar
+  name-native गुण्टुपल्ली करुणाकर
+  email karunakar at sarai dot net
+author:
+  name Ravikant
+  name-native रविकांत
+  email ravikant at sarai dot net
+author:
+  name Ravishankar Shrivastava
+  name-native रविशंकर श्रीवास्तव
+  email raviratlami at gmail dot com
+copyright GPLv2
+url http://oriya.sarovar.org/hi-dict.html
+version 0.02-0
+source-version 0.02
+complete false
+accurate true 
+alias hi hindi
+dict:
+  name hi
+  add hi

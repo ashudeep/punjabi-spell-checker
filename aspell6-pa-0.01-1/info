@@ -1,0 +1,24 @@
+name_english Punjabi
+name_native ਪੰਜਾਬੀ
+lang pa
+data-file u-guru.cset
+data-file u-guru.cmap
+author:
+  name Amanpreet Singh Alam
+  name_native ਅਮਨਪ੍ਰੀਤ ਸਿੰਘ ਆਲਮ
+  email amanpreetsinghalam at yahoo com
+  maintainer true
+author:
+  name Jaswinder Singh Phulewala
+  name_native ਜਸਵਿੰਦਰ ਸਿੰਘ ਫੂਲੇਵਾਲਾ
+  email jaswinderphulewaal at yahoo com
+copyright GPL
+url http://punlinux.sourceforge.net/dictionary.html
+version 0.01-1
+complete false
+accurate true
+alias pa punjabi
+dict:
+  name pa
+  add pa
+notes Based on OpenOffice Punjabi glossary
